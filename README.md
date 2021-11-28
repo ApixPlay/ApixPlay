@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, i'm Bryan and i'm 21 years old ! 👋
 
 ### ❱ **My IDE & Applications**
 
