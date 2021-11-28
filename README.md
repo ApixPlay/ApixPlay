@@ -2,6 +2,15 @@
 
 ### ❱ **My IDE & Applications**
 
+![image](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)
+![image](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/affinitydesginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+![image](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+![image](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/dell-XPS%2015-007DB8?style=for-the-badge&logo=dell&logoColor=white)
+
 ---
 
 ### ❱ **Languages**
