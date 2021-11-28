@@ -33,7 +33,7 @@
 ---
 
 ### ❱ **Contact**
-[[image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://google.fr/)
+<a href="https://google.fr/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 
 ---
 
