@@ -28,7 +28,7 @@
 ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![image](https://img.shields.io/badge/Gulp.js-CF4647?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![image](https://img.shields.io/badge/GulpJS-CF4647?style=for-the-badge&logo=gulpjs&logoColor=CF4647)
 
 ---
 
