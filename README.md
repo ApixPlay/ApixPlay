@@ -1,5 +1,6 @@
 ## Hi, i'm Bryan and i'm 21 years old ! 👋
-[image](https://user-images.githubusercontent.com/7550868/144401067-ce2ffb6b-8c9e-488b-910e-548706e079dd.png)
+
+![animoji](https://user-images.githubusercontent.com/7550868/144401039-8d9fbde9-1fb2-4f0a-91f5-575dcf4eb732.png)
 
 
 ### ❱ **My IDE & Applications**
@@ -36,8 +37,7 @@
 
 ### ❱ **Contact**
 
-<a href="https://discord.com/users/249911768661360641" targe![animoji](https://user-images.githubusercontent.com/7550868/144401039-8d9fbde9-1fb2-4f0a-91f5-575dcf4eb732.png)
-t="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a href="https://discord.com/users/249911768661360641" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></img></a>
 <a href="https://github.com/ApixPlay" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 
 ---
