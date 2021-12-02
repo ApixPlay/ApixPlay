@@ -2,6 +2,8 @@
   <img width="460" height="300" src="![image]https://user-images.githubusercontent.com/7550868/144401039-8d9fbde9-1fb2-4f0a-91f5-575dcf4eb732.png0">
 </p>
 
+![image]https://user-images.githubusercontent.com/7550868/144401039-8d9fbde9-1fb2-4f0a-91f5-575dcf4eb732.png0
+
 ## Hi, i'm Bryan and i'm 21 years old ! 👋
 
 ### ❱ **My IDE & Applications**
