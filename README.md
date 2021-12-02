@@ -1,4 +1,5 @@
-## Hi, i'm Bryan and i'm 21 years old ! 👋 [animoji](https://user-images.githubusercontent.com/7550868/144401067-ce2ffb6b-8c9e-488b-910e-548706e079dd.png)
+## Hi, i'm Bryan and i'm 21 years old ! 👋
+[image](https://user-images.githubusercontent.com/7550868/144401067-ce2ffb6b-8c9e-488b-910e-548706e079dd.png)
 
 
 ### ❱ **My IDE & Applications**
